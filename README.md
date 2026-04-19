@@ -96,7 +96,7 @@
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah009.dev/8b5cf6/lazyjerry" alt="Commit Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazyjerry&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=6a11cb&area=true&area_color=8b5cf6" alt="Commit Graph" width="100%" />
 </div>
 
 ---
