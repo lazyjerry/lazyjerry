@@ -14,6 +14,9 @@
   <a href="https://github.com/lazyjerry">
     <img src="https://img.shields.io/badge/GitHub-lazyjerry-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://lazyjerry.github.io/weekly-report/">
+    <img src="https://img.shields.io/badge/Weekly_Report-lazyjerry.github.io-607D8B?style=for-the-badge&logo=githubpages&logoColor=white" alt="Weekly Report" />
+  </a>
 
   <br/><br/>
 
