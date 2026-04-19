@@ -12,7 +12,7 @@
 
 ---
 
-## 🙋 關於我 About Me
+## 關於我
 
 ```text
 🧑‍💻  Jerry Lin
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧰 技術棧 Tech Stack
+## 技術棧
 
 <details open>
 <summary><b>程式語言 Languages</b></summary>
@@ -90,10 +90,14 @@
 
 ---
 
-## 📊 GitHub 統計 Stats
+## GitHub 統計
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lazyjerry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6a11cb&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lazyjerry&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lazyjerry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6a11cb&text_color=c9d1d9&count_private=true&hide_rank=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyjerry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="170" />
 </div>
 
