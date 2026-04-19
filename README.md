@@ -122,13 +122,11 @@
 
 <div align="center">
 
-| 🌐 | 連結 |
-|:---:|:---|
-| 📝 | **部落格**：[blog.jerryzheli.com](https://blog.jerryzheli.com/) |
-| 📋 | **線上履歷**：[cv.crazyjerry.studio](https://cv.crazyjerry.studio/) |
-| 🎂 | **CakeResume**：[Shu-Hsien Lin](https://www.cake.me/resumes/s--ZPDbc8Z2c7HxfQFPxx6i1A--/shu-hsien-lin) |
-| 💼 | **作品集**：[Portfolio](https://github.com/lazyjerry/portfolio-mobile) |
-| 📰 | **科技新聞**：[lazyjerry.github.io](https://lazyjerry.github.io/) |
+[![Blog](https://img.shields.io/badge/📝_部落格-blog.jerryzheli.com-FF5722?style=flat-square)](https://blog.jerryzheli.com/)
+[![CV](https://img.shields.io/badge/📋_線上履歷-cv.crazyjerry.studio-4285F4?style=flat-square)](https://cv.crazyjerry.studio/)
+[![CakeResume](https://img.shields.io/badge/🎂_CakeResume-Shu--Hsien_Lin-00C853?style=flat-square)](https://www.cake.me/resumes/s--ZPDbc8Z2c7HxfQFPxx6i1A--/shu-hsien-lin)
+[![Portfolio](https://img.shields.io/badge/💼_作品集-portfolio--mobile-8b5cf6?style=flat-square)](https://github.com/lazyjerry/portfolio-mobile)
+[![News](https://img.shields.io/badge/📰_科技新聞-lazyjerry.github.io-607D8B?style=flat-square)](https://lazyjerry.github.io/)
 
 </div>
 
