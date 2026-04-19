@@ -2,21 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6a11cb,50:8b5cf6,100:2575fc&text=Hi%20there%2C%20I'm%20Jerry%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Coding%20Enthusiast%20%7C%20Open%20Source%20Lover&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn" alt="header" width="100%" />
 
-  <a href="https://blog.jerryzheli.com/">
-    <img src="https://img.shields.io/badge/Blog-jerryzheli.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
-  </a>
-  <a href="https://cv.crazyjerry.studio/">
-    <img src="https://img.shields.io/badge/CV-crazyjerry.studio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CV" />
-  </a>
-  <a href="https://www.cake.me/resumes/s--ZPDbc8Z2c7HxfQFPxx6i1A--/shu-hsien-lin">
-    <img src="https://img.shields.io/badge/CakeResume-00C853?style=for-the-badge&logo=cakephp&logoColor=white" alt="CakeResume" />
-  </a>
-  <a href="https://github.com/lazyjerry">
-    <img src="https://img.shields.io/badge/GitHub-lazyjerry-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://lazyjerry.github.io/weekly-report/">
-    <img src="https://img.shields.io/badge/Weekly_Report-lazyjerry.github.io-607D8B?style=for-the-badge&logo=githubpages&logoColor=white" alt="Weekly Report" />
-  </a>
+  [📝 部落格](https://blog.jerryzheli.com/) · [📄 履歷](https://cv.crazyjerry.studio/) · [🎂 CakeResume](https://www.cake.me/resumes/s--ZPDbc8Z2c7HxfQFPxx6i1A--/shu-hsien-lin) · [🐙 GitHub](https://github.com/lazyjerry) · [📊 每週報告](https://lazyjerry.github.io/weekly-report/)
 
   <br/><br/>
 
