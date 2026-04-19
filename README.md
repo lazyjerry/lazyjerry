@@ -13,8 +13,6 @@
 
 ---
 
-## 關於我
-
 ```text
 🧑‍💻  Jerry Lin
 📍  台灣 Taiwan
@@ -30,8 +28,6 @@
 - 💬 歡迎聊聊 **TypeScript / PHP / Go / Python / AI CLI Tools / Cloudflare Workers**
 
 ---
-
-## 技術棧
 
 <details open>
 <summary><b>程式語言 Languages</b></summary>
@@ -92,7 +88,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lazyjerry&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lazyjerry&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&row=1" alt="GitHub Trophy" />
 </div>
 
 <div align="center">
