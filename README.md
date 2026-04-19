@@ -28,8 +28,8 @@
 ```text
 🧑‍💻  Jerry Lin
 📍  台灣 Taiwan
-💼  軟體開發工程師 / Full-Stack Developer
-🎯  專注於 AI Coding、自動化工具開發與全端應用
+💼  程式設計師 / Full-Stack Developer
+🎯  專注於 數位解決方案開發、自動化工具開發與全端應用
 🏕️  中原童軍團 / Scout Leader
 ```
 
