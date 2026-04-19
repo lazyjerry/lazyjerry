@@ -3,10 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6a11cb,50:8b5cf6,100:2575fc&text=Hi%20there%2C%20I'm%20Jerry%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Coding%20Enthusiast%20%7C%20Open%20Source%20Lover&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn" alt="header" width="100%" />
 
   <a href="https://blog.jerryzheli.com/"><img src="https://img.shields.io/badge/部落格-6a11cb?style=flat-square&logo=blogger&logoColor=white" alt="部落格" /></a>
-  <a href="https://cv.crazyjerry.studio/"><img src="https://img.shields.io/badge/履歷-2575fc?style=flat-square&logo=readthedocs&logoColor=white" alt="履歷" /></a>
-  <a href="https://www.cake.me/resumes/s--ZPDbc8Z2c7HxfQFPxx6i1A--/shu-hsien-lin"><img src="https://img.shields.io/badge/CakeResume-4CAF50?style=flat-square&logo=cake&logoColor=white" alt="CakeResume" /></a>
-  <a href="https://github.com/lazyjerry"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://lazyjerry.github.io/weekly-report/"><img src="https://img.shields.io/badge/每週報告-8b5cf6?style=flat-square&logo=googlesheets&logoColor=white" alt="每週報告" /></a>
+  <a href="https://crazyjerry.studio/"><img src="https://img.shields.io/badge/名片-2575fc?style=flat-square&logo=readthedocs&logoColor=white" alt="名片" /></a>
+  <a href="https://www.cake.me/resumes/s--ZPDbc8Z2c7HxfQFPxx6i1A--/shu-hsien-lin"><img src="https://img.shields.io/badge/作品集-4CAF50?style=flat-square&logo=cake&logoColor=white" alt="作品集" /></a>
+  <a href="https://lazyjerry.github.io/weekly-report/"><img src="https://img.shields.io/badge/科技服務資訊週記-8b5cf6?style=flat-square&logo=googlesheets&logoColor=white" alt="科技服務資訊週記" /></a>
   <img src="https://komarev.com/ghpvc/?username=lazyjerry&style=flat-square&color=6a11cb" alt="Profile Views" />
 
 </div>
