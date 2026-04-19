@@ -118,24 +118,8 @@
 
 ---
 
-## 🔗 更多連結 Links
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/📝_部落格-blog.jerryzheli.com-FF5722?style=flat-square)](https://blog.jerryzheli.com/)
-[![CV](https://img.shields.io/badge/📋_線上履歷-cv.crazyjerry.studio-4285F4?style=flat-square)](https://cv.crazyjerry.studio/)
-[![CakeResume](https://img.shields.io/badge/🎂_CakeResume-Shu--Hsien_Lin-00C853?style=flat-square)](https://www.cake.me/resumes/s--ZPDbc8Z2c7HxfQFPxx6i1A--/shu-hsien-lin)
-[![Portfolio](https://img.shields.io/badge/💼_作品集-portfolio--mobile-8b5cf6?style=flat-square)](https://github.com/lazyjerry/portfolio-mobile)
-[![News](https://img.shields.io/badge/📰_科技新聞-lazyjerry.github.io-607D8B?style=flat-square)](https://lazyjerry.github.io/)
-
-</div>
-
----
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6a11cb,50:8b5cf6,100:2575fc&section=footer" alt="footer" width="100%" />
-
-  <i>「用 AI 寫更好的程式，用程式打造更好的工具」</i>
 
 </div>
