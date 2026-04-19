@@ -26,7 +26,7 @@
 ## 🙋 關於我 About Me
 
 ```text
-🧑‍💻  林書賢 Jerry Lin
+🧑‍💻  Jerry Lin
 📍  台灣 Taiwan
 💼  軟體開發工程師 / Full-Stack Developer
 🎯  專注於 AI Coding、自動化工具開發與全端應用
