@@ -7,10 +7,7 @@
   <a href="https://www.cake.me/resumes/s--ZPDbc8Z2c7HxfQFPxx6i1A--/shu-hsien-lin"><img src="https://img.shields.io/badge/CakeResume-4CAF50?style=flat-square&logo=cake&logoColor=white" alt="CakeResume" /></a>
   <a href="https://github.com/lazyjerry"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://lazyjerry.github.io/weekly-report/"><img src="https://img.shields.io/badge/每週報告-8b5cf6?style=flat-square&logo=googlesheets&logoColor=white" alt="每週報告" /></a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=lazyjerry&style=for-the-badge&color=6a11cb" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lazyjerry&style=flat-square&color=6a11cb" alt="Profile Views" />
 
 </div>
 
